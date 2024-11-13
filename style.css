@@ -1,0 +1,14 @@
+button {
+    background-color: aqua;
+    border-radius: 8px;
+    font-size: 14px;
+}
+a{
+    font-size: 18px;
+    font-style:italic;
+
+}
+p{
+    font-style:inherit;
+    
+}
